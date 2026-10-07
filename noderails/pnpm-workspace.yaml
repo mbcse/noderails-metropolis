@@ -1,0 +1,6 @@
+packages:
+  - "packages/*"
+  - "services/*"
+  - "apps/*"
+  - "!apps/buy-me-coffee"
+  - "noderails-contracts/ops-ui"
